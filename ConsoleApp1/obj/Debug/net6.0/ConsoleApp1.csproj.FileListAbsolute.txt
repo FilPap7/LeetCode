@@ -1,0 +1,14 @@
+F:\ComputerScience\Personal Stuff\CSharpTesting\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.exe
+F:\ComputerScience\Personal Stuff\CSharpTesting\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.deps.json
+F:\ComputerScience\Personal Stuff\CSharpTesting\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.runtimeconfig.json
+F:\ComputerScience\Personal Stuff\CSharpTesting\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.dll
+F:\ComputerScience\Personal Stuff\CSharpTesting\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.pdb
+F:\ComputerScience\Personal Stuff\CSharpTesting\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+F:\ComputerScience\Personal Stuff\CSharpTesting\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.AssemblyInfoInputs.cache
+F:\ComputerScience\Personal Stuff\CSharpTesting\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.AssemblyInfo.cs
+F:\ComputerScience\Personal Stuff\CSharpTesting\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+F:\ComputerScience\Personal Stuff\CSharpTesting\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.dll
+F:\ComputerScience\Personal Stuff\CSharpTesting\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\refint\ConsoleApp1.dll
+F:\ComputerScience\Personal Stuff\CSharpTesting\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.pdb
+F:\ComputerScience\Personal Stuff\CSharpTesting\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.genruntimeconfig.cache
+F:\ComputerScience\Personal Stuff\CSharpTesting\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ref\ConsoleApp1.dll
